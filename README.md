@@ -4,10 +4,10 @@ Your friend has opened a new Food Blogging handle on Instagram and wants to get 
 You need to create different functions for each task.
 
 Steps-----
-Login to your Instagram Handle
-Submit with sample username and password
-Type for “food” in search bar and print all the names of the Instagram Handles that are displayed in list after typing “food”
-Note : Make sure to avoid printing hashtags
+Login to your Instagram Handle.
+Submit with sample username and password.
+Type for “food” in search bar and print all the names of the Instagram Handles that are displayed in list after typing “food”.
+Note : Make sure to avoid printing hashtags.
 Searching and Opening a profile using 
 Open profile of “So Delhi” 
 Follow/Unfollow given handle - 
